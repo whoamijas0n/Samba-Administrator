@@ -140,5 +140,5 @@ systemctl restart smbd nmbd
 - Recursive permission changes (`chown -R`, `chmod -R`) are irreversible without prior backup of ownership and mode metadata. Always verify the target path before confirming changes.
 - Samba credentials and session data displayed by `smbstatus` and `pdbedit` may be sensitive. Ensure the terminal session is secured and access-logged in production environments.
 
----
+
 
