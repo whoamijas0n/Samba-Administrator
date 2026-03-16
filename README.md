@@ -1,4 +1,4 @@
-# Samba Administrator — sysadmin.sh
+# Samba Administrator 
 
 A command-line interface (CLI) administration tool designed to simplify routine system resource monitoring and Samba server management on Linux systems.
 
