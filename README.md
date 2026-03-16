@@ -21,8 +21,8 @@ This Bash script provides an interactive menu-driven interface that allows syste
 1. Clone or download the repository to the target server:
 
 ```bash
-git clone https://github.com/whoamijas0n/samba-administrator.git
-cd samba-administrator
+git clone https://github.com/whoamijas0n/Samba-Administrator.git
+cd Samba-Administrator
 ```
 
 2. Grant execution permissions to the script:
